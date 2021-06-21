@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+  }
+
+  .cat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    align: center;
+  }
